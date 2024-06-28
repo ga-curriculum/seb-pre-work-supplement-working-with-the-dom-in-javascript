@@ -2,30 +2,28 @@
 
 <h1 class="slide-header">tktk content title</h1>
 
-<span id=time-estimate class="color-grey-500">20 mins</span>
+<span id=time-estimate class="color-grey-500">tktk mins</span>
 
-<p id="lesson-description">
-  In this lesson you'll learn tktk
-</p>
+<p id="lesson-description">In this lesson you'll learn tktk</p>
 
 <h5 id="topics-header" class="color-grey-500">Topics</h5>
 
-Topic # 1
+tktk Topic #1
 
 <hr>
 
-Topic #2
+tktk Topic #2
 
 <hr>
 
-Topic #3
+tktk Topic #3
 
 <hr>
 
-<a
-  href="https://ga-waite.s3.amazonaws.com/production/sanitized-pdfs/introduction-to-html-2.pdf"
+<a 
+  href="tktk"
   target="_blank"
-  download="introduction_to_html_study_guide.pdf"
+  download="tktk-file-name"
   class="ant-btn"
   data-trackable="true"
   data-track-category="study guide"
@@ -33,7 +31,7 @@ Topic #3
   data-track-action="download study guide"
 >
   <span role="img" class="anticon">
-    <svg
+    <svg 
       viewBox="0 0 16 16"
       width="1em"
       height="1em"
@@ -50,7 +48,7 @@ Topic #3
       </g>
     </svg>
   </span>
-  <span>Download Study Guide</span>
+  <span> Download Study Guide</span>
 </a>
 
 ---
@@ -60,20 +58,21 @@ Topic #3
 <p>By the end of this lesson, you'll be able to:</p>
 
 <ul>
-  <li>Objective 1</li>
-  <li>Objective 2</li>
-  <li>Objective 3</li>
+  <li>tktk objvective #1</li>
+  <li>tktk objvective #2</li>
+  <li>tktk objvective #3</li>
 </ul>
 
 ---
 
-<h1 class="slide-header">Video Content</h1>
+<h1 class="slide-header">tktk Video Content (replace with title of video)</h1>
+  
 <!--
-  WISTIA EXAMPLE. REPLACE 11dit621rx with the id
+  WISTIA EXAMPLE. REPLACE tktkt621rx with the id
 -->
 <div
-  class="wistia_embed wistia_async_11dit621rx wistia_embed_initialized"
-  id="wistia-11dit621rx-1"
+  class="wistia_embed wistia_async_tktkt621rx wistia_embed_initialized"
+  id="wistia-tktkt621rx-1"
   style="width: 100%; height: 50%;"
 >
   <div id="wistia_chrome_23" class="w-chrome notranslate" tabindex="-1">
@@ -123,7 +122,7 @@ Topic #3
                 <div class="w-css-reset" data-handle="statusBar"></div>
                 <div class="w-css-reset" data-handle="backgroundFocus">
                   <button
-                    aria-label="Play Video: A Brief History of the Web"
+                    aria-label="Play Video: tktk video title"
                     class="w-css-reset w-vulcan-v2-button"
                     tabindex="0"
                     style="width: 0px; height: 0px; pointer-events: none;"
@@ -244,59 +243,71 @@ Topic #3
 <details>
   <summary>Transcript</summary>
   
-  <p class="transcript-text">
-    Lorem ipsum etc etc
-  </p>
+  <p class="transcript-text">tktk transcript text</p>
 </details>
 
 ---
 
-<h1 class="slide-header">Code Challenge</h1>
+<h1 class="slide-header">tktk Code Challenge (replace with title of code challenge or use Knowledge Check)</h1>
 
 <iframe
   height="500"
   style="width: 100%;"
   scrolling="no"
-  title="Code Challenge Test"
-  src="https://codepen.io/Ryan-Brodsky/embed/VwNwXqq?default-tab=html%2Cresult&editable=true"
+  title="tktk codepen title"
+  src="tktk-codepen-embed-link"
   frameborder="no"
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
 >
-  See the Pen <a href="https://codepen.io/Ryan-Brodsky/pen/VwNwXqq">Code Challenge Test</a> by Ryan Brodsky (<a href="https://codepen.io/Ryan-Brodsky">@Ryan-Brodsky</a>) on <a href="https://codepen.io">CodePen</a>.
+  See the Pen <a href="tktk-codepen-link">tktk codpen title</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>) on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
 ---
 
-<h1 class="slide-header">Multiple Choice Question</h1>
+<h1 class="slide-header">Knowledge Check</h1>
 
+<p>tktk a single-select multiple-choice question</p>
+  
 <fieldset>
-  <legend>Please select one of the following:</legend>
-  <input type="radio" name="action" id="track" value="track" correct="true" />
-  <label for="track">Correct Answer</label>
+  <legend>Please select the best answer from the following:</legend>
+  <input type="radio" name="option-one" id="option-one" correct="true" />
+  <label for="option-one">tktk option #1 (correct as indicated by correct="true") - only one option should have this attribute</label>
   <br />
-  <input type="radio" name="action" id="event" value="event" />
-  <label for="event">Incorrect</label>
+  <input type="radio" name="option-two" id="option-two" />
+  <label for="option-two">tktk option #2</label>
   <br />
-  <input type="radio" name="action" id="message" value="message" />
-  <label for="message">Incorrect</label>
+  <input type="radio" name="option-three" id="option-three" />
+  <label for="option-three">tktk option #3</label>
+  <br />
+  <input type="radio" name="option-four" id="option-four" />
+  <label for="option-four">tktk option #4</label>
   <br />
 </fieldset>
 <button class="ant-btn ant-btn-primary multiple-choice-radio-submit">
   Submit Answer
 </button>
 
+---
+
+<h1 class="slide-header">Knowledge Check</h1>
+
+<p>tktk a multi-select multiple-choice question</p>
+  
 <fieldset>
   <legend>Please select all that apply</legend>
-  <input type="checkbox" id="uniqueAnswer" name="unique" correct="true"/>
-  <label for="uniqueAnswer">Correct Answer</label>
+  <input type="checkbox" id="option-one" name="option-one" correct="true"/>
+  <label for="option-one">tktk option #1 (correct as indicated by correct="true") - many option can have this attribute</label>
   <br />
-  <input type="checkbox" id="uniqueAnswer2" name="unique2" />
-  <label for="uniqueAnswer2">Incorrect Answer</label>
+  <input type="checkbox" id="option-two" name="option-two" />
+  <label for="option-two">tktk option #2</label>
   <br />
-  <input type="checkbox" id="uniqueAnswer3" name="unique3" correct="true"/>
-  <label for="uniqueAnswer3">Correct Answer</label>
+  <input type="checkbox" id="option-three" name="option-three" correct="true"/>
+  <label for="option-three">tktk option #3 (correct as indicated by correct="true") - many option can have this attribute</label>
+  <br />
+  <input type="checkbox" id="option-four" name="option-four" />
+  <label for="option-four">tktk option #4</label>
   <br />
 </fieldset>
 
@@ -309,56 +320,19 @@ Topic #3
 <h1 class="slide-header">Cards Slide</h1>
 
 <details>
-  <summary>Vocabulary Term</summary>
+  <summary>tktk Vocabulary term</summary>
   
-  <p class="transcript-text">
-    Definition when "flipped" by the student
-  </p>
+  <p class="transcript-text">tktk definition when toggled by the student</p>
 </details>
 
 <details>
-  <summary>Vocabulary Term</summary>
+  <summary>tktk Vocabulary term</summary>
   
-  <p class="transcript-text">
-    Definition when "flipped" by the student
-  </p>
+  <p class="transcript-text">tktk definition when toggled by the student</p>
 </details>
 
 ---
 
 <h1 class="slide-header">Conclusion</h1>
-
+  
 </textarea>
-
-<a
-  href="https://ga-create-api.s3.amazonaws.com/studyguides/control-flow-619bca.pdf"
-  target="_blank"
-  download="control_flow_study_guide.pdf"
-  class="ant-btn"
-  data-trackable="true"
-  data-track-category="study guide"
-  data-track-section="lesson page"
-  data-track-action="download study guide"
->
-  <span role="img" class="anticon">
-    <svg
-      viewBox="0 0 16 16"
-      width="1em"
-      height="1em"
-      fill="currentColor"
-      aria-hidden="true"
-      focusable="false"
-      class=""
-    >
-      <g class="download_svg__nc-icon-wrapper">
-        <path
-          d="M8 12c.3 0 .5-.1.7-.3L14.4 6 13 4.6l-4 4V0H7v8.6l-4-4L1.6 6l5.7 5.7c.2.2.4.3.7.3z"
-        ></path>
-        <path data-color="color-2" d="M1 14h14v2H1z"></path>
-      </g>
-    </svg>
-  </span>
-  <span>Download Study Guide</span>
-</a>
-
----
